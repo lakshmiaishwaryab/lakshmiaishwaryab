@@ -9,11 +9,12 @@ Software Engineer from Bengaluru. I spent two years at **SAP Labs India** (inter
 ## Tech
 
 - **Languages:** Python · Java · SAP ABAP · SQL
-- **Backend & tools:** SAP RAP · REST APIs · Linux · Git
+- **Backend & tools:** FastAPI · SQLAlchemy · PostgreSQL · Docker · SAP RAP · REST APIs · Linux · Git
 - **ML / AI:** OpenCV · MediaPipe · scikit-learn · LLM tools (Anthropic Claude)
 
 ## Featured projects
 
+- **[JobPilot API](https://github.com/lakshmiaishwaryab/jobpilot)** – FastAPI + PostgreSQL REST API to track job applications and score resumes against job descriptions, with JWT auth, Claude API suggestions, Docker and CI.
 - **[Hand Gesture Recognition](https://github.com/lakshmiaishwaryab/signlanguagedetection)** – real-time webcam gesture classifier with OpenCV, MediaPipe and a Random Forest.
 - **[Emotion-based Music Recommendation Chatbot](https://github.com/lakshmiaishwaryab/Music-me-Chatbot_song_recommendor_system-)** – chatbot that suggests songs based on detected mood.
 - **[Weather App](https://github.com/lakshmiaishwaryab/Weather-app)** – weather lookup web app.
